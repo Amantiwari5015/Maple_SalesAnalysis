@@ -1,0 +1,20 @@
+Product_ID,Product_Name,Category,Unit_Price,Unit_Cost
+P101,Vanilla Soy Candle,Candles,18,6.08
+P102,Cedar Wood Candle,Candles,22,7.16
+P103,Lavender Jar Candle,candles,16,5.77
+P104,Candle Gift Set,Candles,45,14.4
+P105,Linen Duvet Cover,Bedding,120,66.47
+P106,Cotton Sheet Set,Bedding,85,45.49
+P107,Waffle Throw Blanket,Bedding,65,32.59
+P108,Pillow Cases (2pk),Bedding,28,15.42
+P109,Ceramic Mug Set,Kitchen,34,15.43
+P110,Bamboo Cutting Board,Kitchen ,29,14.31
+P111,Cast Iron Skillet,Kitchen,55,25.13
+P112,Glass Storage Jars,Kitchen,38,17.44
+P113,Woven Wall Hanging,Decor,48,21.27
+P114,Ceramic Vase,Decor,42,20.14
+P115,Framed Botanical Print,Decor,60,
+P116,Rattan Mirror,Decor,95,40.38
+P117,Turkish Towel Set,Bath,58,29.74
+P118,Bath Mat,Bath,32,17.43
+P119,Soap Dispenser,Bath,19,9.65
